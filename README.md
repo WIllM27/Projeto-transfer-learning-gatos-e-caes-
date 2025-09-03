@@ -22,8 +22,8 @@ Aqui, utilizamos uma rede pré-treinada (ex.: VGG16) como **extratora de caracte
 ## 📂 Estrutura do repositório
 ```
 📁 cats-vs-dogs-transfer-learning
- ┣ 📜 Projeto_transfer_learning_revisado.ipynb   # Notebook principal
- ┣ 📜 README.md                                  # Este arquivo
+ ┣ 📜 Projeto transfer learning (gatos e caes).ipynb   # Notebook principal
+ ┣ 📜 README.md                                        # Este arquivo
 ```
 
 ---
@@ -31,13 +31,12 @@ Aqui, utilizamos uma rede pré-treinada (ex.: VGG16) como **extratora de caracte
 ## 🚀 Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cats-vs-dogs-transfer-learning.git
-   cd cats-vs-dogs-transfer-learning
-   ```
+   git clone https://github.com/WIllM27/Projeto-transfer-learning-gatos-e-caes-.git
+   cd Projeto-transfer-learning-gatos-e-caes-
 
 2. Abra o notebook no **Google Colab** ou em Jupyter Notebook.  
 
-3. Baixe o dataset **Cats vs Dogs** do Kaggle ([link aqui](https://www.kaggle.com/datasets/tongpython/cat-and-dog)).  
+3. Baixe o dataset **Cats vs Dogs** do Kaggle ([link aqui](https://www.microsoft.com/en-us/download/details.aspx?id=54765).  
 
 4. Extraia o arquivo `.zip` em `/content/dataset` (se usar Colab) ou ajuste o caminho no notebook.  
 
@@ -63,4 +62,4 @@ Essa técnica pode ser aplicada em diversos cenários reais:
 
 ---
 
-✍️ Desenvolvido por [Seu Nome]
+✍️ Desenvolvido por Willian Miguel
